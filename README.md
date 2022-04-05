@@ -5,3 +5,5 @@
 ## III. 基礎網路爬蟲(WebCrawling)  
 ## IV. 自然語言處理(NLP)  
 ## 應用 - YouTube影片批次下載  
+## 應用 - 雲端操控GoogleSheet
+## 應用 - 股市資訊自動化LineBot
