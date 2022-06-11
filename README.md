@@ -2,6 +2,8 @@
 紀錄 Python 學習過程與應用專案
 ## I. Basic Course  
 - base python syntax and operations
+- inherit data format (numeric/string/list/set/tuple/dictionary)  
+- loop control  
 
 ## II. Advanced Course
 - try-except 
