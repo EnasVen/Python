@@ -22,12 +22,12 @@
 - Log-in personal Facebook account using selenium
 - try to get articles on PTT BBS
 - applications of scrapping skills on such as :
-    > 591House
-    > Shopee
-    > AppleNews
-    > Facebook search results
-    > Michelin Info with GoogleSheet
-    > YouTube Video List Downloads
+    > 591House  
+    > Shopee  
+    > AppleNews  
+    > Facebook search results  
+    > Michelin Info with GoogleSheet  
+    > YouTube Video List Downloads  
 
 ## V. 自然語言處理(NLP)  
 - 學習六大NLP手法:segmentation/stemming/lemmatization/tagging/parsing/sentence tokenize  
