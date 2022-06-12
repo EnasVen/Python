@@ -17,7 +17,13 @@
 - Numpy Ufunctions  
 - aggregations  
 
-## IV. 基礎網路爬蟲(WebCrawling)  
+## IV. Pandas
+- basic Series,Index and DataFrame concepts  
+- Series and DataFrame attributes  
+- DataFrame manipulations such as split/slice...etc  
+- DateFrame Ufuncs  
+
+## V. 基礎網路爬蟲(WebCrawling)  
 - requests/BeautifulSoup/re/Selenium module
 - Log-in personal Facebook account using selenium
 - try to get articles on PTT BBS
@@ -29,7 +35,7 @@
     > Michelin Info with GoogleSheet  
     > YouTube Video List Downloads  
 
-## V. 自然語言處理(NLP)  
+## VI. 自然語言處理(NLP)  
 - 學習六大NLP手法:segmentation/stemming/lemmatization/tagging/parsing/sentence tokenize  
 - 使用scikit-learn對每一個單詞計算TF-IDF  
 - 使用jieba模組進行中文斷詞  
@@ -39,5 +45,5 @@
 - 訓練DNN模型來偵測垃圾郵件  
 - 使用wordcloud與jieba製作文字雲  
 
-## VI. Line機器人
+## VII. Line機器人
 - 使用IFTTT和twstock模組抓取股票資訊並連結到個人Line通知
